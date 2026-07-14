@@ -27,7 +27,7 @@ while opcao_menu != "0":
 
     elif opcao_menu == "2":
         print("Ave escolhida: Bem-te-vi")
-        print("Nome científico: Pitangus sulphuratus"
+        print("Nome científico: Pitangus sulphuratus")
         print("O bem-te-vi é uma das aves mais conhec")
 
     elif opcao_menu == "3":
@@ -121,7 +121,7 @@ elif opcao_menu == "4":
 
 
 
-)
+
 
 
 
